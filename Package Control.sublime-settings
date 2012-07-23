@@ -1,21 +1,24 @@
 {
-	"auto_upgrade_last_run": 1342921174,
+	"auto_upgrade_last_run": 1343083857,
 	"installed_packages":
 	[
 		"Alignment",
 		"CoffeeScript",
 		"ColorPick",
 		"CTags",
+		"Cucumber",
 		"DetectSyntax",
 		"Gist",
 		"Git",
 		"Guard",
 		"IndentGuides",
+		"Live CSS",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"RSpec",
 		"SCSS",
+		"SCSS Snippets",
 		"SublimeBlockCursor",
 		"Theme - Soda"
 	]
