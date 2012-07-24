@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1343083857,
+	"auto_upgrade_last_run": 1343130429,
 	"installed_packages":
 	[
 		"Alignment",
@@ -17,6 +17,7 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"RSpec",
+		"RubyMotionBuilder",
 		"SCSS",
 		"SCSS Snippets",
 		"SublimeBlockCursor",
