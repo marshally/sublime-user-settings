@@ -1,0 +1,12 @@
+{
+  "sublimelinter_popup_errors_on_save": true,
+  "sublimelinter_syntax_map":
+  {
+    "Ruby on Rails": "ruby",
+    "Guard": "ruby"
+  },
+  "sublimelinter_executable_map":
+  {
+    "ruby": "`/usr/local/bin/rbenv which ruby` \"$@\""
+  }
+}

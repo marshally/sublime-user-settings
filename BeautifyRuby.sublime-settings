@@ -1,0 +1,3 @@
+{
+  "ruby": "`/usr/local/bin/rbenv which ruby` \"$@\""
+}

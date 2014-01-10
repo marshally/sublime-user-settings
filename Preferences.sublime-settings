@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/base16-chalk.light.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -30,6 +30,7 @@
 	],
 	"folder_exclude_patterns":
 	[
+		"coverage",
 		"data",
 		".git",
 		".svn",
@@ -39,16 +40,19 @@
 		".bundle",
 		"bundle",
 		".rbx",
-		"script",
 		"tmp"
 	],
 	"font_face": "Inconsolata",
-	"font_size": 26.0,
+	"font_size": 23.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
 	],
 	"last_line": "allow_trailing_comma",
 	"line_padding_bottom": 0.5,
@@ -62,12 +66,34 @@
 		80
 	],
 	"save_on_focus_lost": true,
+	"syntax_docset_map":
+	{
+		"ActionScript": "actionscript",
+		"C": "c",
+		"C++": "cpp",
+		"CSS": "css",
+		"Clojure": "clojure",
+		"Erlang": "erlang",
+		"Groovy": "groovy",
+		"HTML": "html",
+		"Haskell": "haskell",
+		"Java": "java7",
+		"JavaScript": "javascript",
+		"Lisp": "lisp",
+		"Lua": "lua",
+		"Markdown": "md",
+		"PHP": "php",
+		"Perl": "perl",
+		"Python": "python2",
+		"Ruby": "ruby",
+		"Ruby on Rails": "rails4",
+		"SQL": "psql",
+		"Scala": "scala",
+		"ShellScript": "manpages",
+		"TCL": "tcl"
+	},
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"indent_guide_options": ["draw_active"],
-	"highlight_modified_tabs": true,
-	"bold_folder_labels": true,
 	"word_wrap": false
 }

@@ -1,28 +1,41 @@
 {
-	"auto_upgrade_last_run": 1343130429,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"Base16 Color Schemes",
+		"BeautifyRuby",
 		"CoffeeScript",
 		"ColorPick",
 		"CTags",
 		"Cucumber",
+		"DashDoc",
 		"DetectSyntax",
 		"EditorConfig",
+		"Elixir",
 		"Gist",
 		"Git",
 		"GitGutter",
 		"Guard",
+		"HexViewer",
 		"IndentGuides",
 		"Live CSS",
+		"LiveReload",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Rails Partial",
 		"RSpec",
+		"Ruby Extract Method",
+		"RubyFormat",
 		"RubyMotionBuilder",
+		"RubyTest",
 		"SCSS",
 		"SCSS Snippets",
 		"SublimeBlockCursor",
-		"Theme - Soda"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"WordCount"
 	]
 }
